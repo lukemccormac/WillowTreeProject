@@ -1,0 +1,11 @@
+C:\Users\lukem\WillowTreeProject\Question1Solution\ConsoleApp3\obj\Debug\netcoreapp2.2\WillowTreeQuestion1.csprojAssemblyReference.cache
+C:\Users\lukem\WillowTreeProject\Question1Solution\ConsoleApp3\obj\Debug\netcoreapp2.2\WillowTreeQuestion1.csproj.CoreCompileInputs.cache
+C:\Users\lukem\WillowTreeProject\Question1Solution\ConsoleApp3\obj\Debug\netcoreapp2.2\WillowTreeQuestion1.AssemblyInfoInputs.cache
+C:\Users\lukem\WillowTreeProject\Question1Solution\ConsoleApp3\obj\Debug\netcoreapp2.2\WillowTreeQuestion1.AssemblyInfo.cs
+C:\Users\lukem\WillowTreeProject\Question1Solution\ConsoleApp3\bin\Debug\netcoreapp2.2\WillowTreeQuestion1.deps.json
+C:\Users\lukem\WillowTreeProject\Question1Solution\ConsoleApp3\bin\Debug\netcoreapp2.2\WillowTreeQuestion1.runtimeconfig.json
+C:\Users\lukem\WillowTreeProject\Question1Solution\ConsoleApp3\bin\Debug\netcoreapp2.2\WillowTreeQuestion1.runtimeconfig.dev.json
+C:\Users\lukem\WillowTreeProject\Question1Solution\ConsoleApp3\bin\Debug\netcoreapp2.2\WillowTreeQuestion1.dll
+C:\Users\lukem\WillowTreeProject\Question1Solution\ConsoleApp3\bin\Debug\netcoreapp2.2\WillowTreeQuestion1.pdb
+C:\Users\lukem\WillowTreeProject\Question1Solution\ConsoleApp3\obj\Debug\netcoreapp2.2\WillowTreeQuestion1.dll
+C:\Users\lukem\WillowTreeProject\Question1Solution\ConsoleApp3\obj\Debug\netcoreapp2.2\WillowTreeQuestion1.pdb

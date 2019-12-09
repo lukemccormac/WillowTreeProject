@@ -8,12 +8,19 @@ class WillowTree
 {
     public static void CountWordsInDocument()
     {
-        string outputFile = "C:\\Users\\lukem\\WillowTreeProject\\Question1Output.txt";
-        string inputFile = "C:\\Users\\lukem\\Downloads\\Paragraph.txt";
+        //I thought this should be something like Directory.getcurrentdirectory(); I just 
+        //wasn't quite able to get it working
+        string directory = "C:\\Users\\lukem\\WillowTreeProject\\";
+        string readingFilename = "Paragraph.txt";
+        string readingFullPath = Path.Combine(directory, readingFilename);
+
+        string writingFilename = "Question1Output.txt";
+        string writingFullPath = Path.Combine(directory, writingFilename);
+
         Dictionary<string, int> finalList = new Dictionary<string, int>();
-        using (StreamReader sr = new StreamReader(inputFile))
+        using (StreamReader sr = new StreamReader(readingFullPath))
         {
-            using (StreamWriter sw = new StreamWriter(outputFile, true))
+            using (StreamWriter sw = new StreamWriter(writingFullPath, true))
             {
                 while (!sr.EndOfStream)
                 {
