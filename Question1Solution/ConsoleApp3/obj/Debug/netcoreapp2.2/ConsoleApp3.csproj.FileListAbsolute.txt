@@ -1,0 +1,11 @@
+C:\Users\lukem\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.2\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\lukem\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.2\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\lukem\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.2\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\lukem\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.2\ConsoleApp3.AssemblyInfo.cs
+C:\Users\lukem\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.2\ConsoleApp3.deps.json
+C:\Users\lukem\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.2\ConsoleApp3.runtimeconfig.json
+C:\Users\lukem\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.2\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\lukem\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.2\ConsoleApp3.dll
+C:\Users\lukem\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.2\ConsoleApp3.pdb
+C:\Users\lukem\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.2\ConsoleApp3.dll
+C:\Users\lukem\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.2\ConsoleApp3.pdb
